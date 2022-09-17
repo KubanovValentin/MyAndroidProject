@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyAndroidProject</string>
+    <string name="the_list_will_be_here">The list will be here</string>
+    <string name="button">Button</string>
+</resources>
